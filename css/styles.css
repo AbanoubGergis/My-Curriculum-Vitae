@@ -1,1 +1,15 @@
-body { background-color:#989993; font-family:fantasy;}
+/*
+ *
+ * CSS written based on SMACSS architecture.
+ * To learn more, visit: http://smacss.com/
+ * 
+ * For simplicity, no reset or normalize is added. 
+ * To learn more, visit: https://css-tricks.com/reboot-resets-reasoning/
+ *
+*/
+
+/* ---- Base Rules ---- */
+body {
+    background-color:#989993;
+    font-family:fantasy;
+}
