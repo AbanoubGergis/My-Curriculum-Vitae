@@ -11,18 +11,15 @@
 * JS Standard: ESlint
 *
 */
-
 /**
 * Define Global Variables
 *defining Sections and navigation list Global variables
 */
-
 /**
 * End Global Variables
 * Start Helper Functions
 *
 */
-
 /**
 * End Helper Functions
 * Begin Main Functions
