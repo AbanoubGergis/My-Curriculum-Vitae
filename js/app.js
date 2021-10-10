@@ -10,7 +10,6 @@
 *
 * JS Standard: ESlint
 
-
 */
 /**
 * Define Global Variables
